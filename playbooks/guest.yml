@@ -1,0 +1,7 @@
+---
+- name: Guest Provisioning playbook
+  hosts: all
+  tasks:
+    - name: printing hello world
+      debug:
+        msg: "hello guest"

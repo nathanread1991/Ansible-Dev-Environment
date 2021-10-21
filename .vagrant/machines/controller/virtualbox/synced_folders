@@ -1,0 +1,1 @@
+{"virtualbox":{"/controller":{"guestpath":"/controller","hostpath":"C:/Users/natha/vagrant/ansible-dev-env/controller","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/natha/vagrant/ansible-dev-env","disabled":false,"__vagrantfile":true}}}
